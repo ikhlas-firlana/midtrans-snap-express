@@ -1,0 +1,26 @@
+{
+  "name": "midtrans-snap-express",
+  "version": "1.0.0",
+  "description": "payment snap midtrans",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikhlas-firlana/midtrans-snap-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikhlas-firlana/midtrans-snap-express/issues"
+  },
+  "homepage": "https://github.com/ikhlas-firlana/midtrans-snap-express#readme",
+  "dependencies": {
+    "axios": "^1.1.3",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
